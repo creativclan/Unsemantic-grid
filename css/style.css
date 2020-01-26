@@ -1,0 +1,107 @@
+body{
+  background-color: #e6eff6;
+}
+
+*{
+    font-family: karla;
+}
+
+.one{
+    height: 340px;
+    background-color: #fff;
+    border-radius: 10px 10px 0px 0px;
+    margin-top: 100px;
+}
+
+.one h1{
+    color: #2bb4ad;
+    font-size: 30px;
+    padding-top: 25px;
+}
+
+.one h3{
+    color: #bfe80b;
+    font-size: 23px;
+    padding-top: 27px;
+}
+.one p{
+  font-size: 22px;
+  color: #8e8e8c;
+  line-height: 15px;
+  padding-top: 10px;
+}
+
+.one div{
+    margin: 40px 0px 0px 40px;
+}
+
+.two{
+    height: 380px;
+    background-color: #2bb4ad;
+    border-radius: 0px 0px 0px 10px;
+}
+
+
+
+.two div{
+    margin: 40px 0px 0px 40px;
+    color:  #fff;
+}
+
+.two h1{
+  padding-top: 27px;
+}
+.two p{
+  font-size: 22px;
+}
+
+div .club{
+    text-align: center;
+    display: flex;
+    align-items: center;
+    padding-top: 10px;
+}
+
+.two div p span{
+    font-size: 45px;
+    font-weight: bolder;
+    margin-right: 10px;
+
+}
+
+.three{
+    height: 380px;
+    background-color: #48bebe;
+    border-radius: 0px 0px 10px 0px;
+}
+
+
+.three div{
+    margin: 10% 10%;
+    color: #fff;
+}
+
+.three ul{
+    display: inline;
+    list-style: none;
+    line-height: 28px;
+    font-size: 20px;
+
+}
+
+
+button{
+  background-color: #bfe80b;
+  height: 60px;
+  width: 350px;
+  border-radius: 10px;
+  margin-left: 7px;
+  margin-top: 30px;
+  text-align: center;
+  font-size: 24px;
+  color: #fff;
+}
+
+button:hover{
+    background-color: #edc255;
+}
